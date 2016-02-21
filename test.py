@@ -23,5 +23,5 @@ def quadratic(a, b, c):
 		return -b / (2 * a)
 
 print(quadratic(1, 3, -4))
-print("Hello")
+print("Hello") # 此处不规范
 
