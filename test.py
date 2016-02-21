@@ -22,6 +22,6 @@ def quadratic(a, b, c):
 	else:
 		return -b / (2 * a)
 
-print(quadratic(2, 3, 1))
 print(quadratic(1, 3, -4))
+print("Hello")
 
